@@ -692,9 +692,10 @@ h3.my-profession{
     display: block;    
 }
 
-img{
-    width: 80%;
+.for-pro-img{
+    width: 90%;
 }
+
 
 .portfolio-item{
     display: block;
@@ -702,7 +703,6 @@ img{
 }
 
 .for-portifolio-headiing{
-    color: white;
     margin: 20px;
     text-align: center ;
 }
@@ -712,6 +712,39 @@ img{
     margin: 5px;
     border:  1px solid #e9e9e9;
     margin: 29px;
+}
+
+.for-portifolio-description{
+    color: #e8dfec;
+}
+
+.for-portifolio-description-head{
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
+.for-portifolio-description-para{
+    color: #f2f2fc;
+    margin-left: 2rem;
+    text-align: left;
+    border-top: 1px solid #393939;
+    margin-bottom: 5px;
+}
+
+.pro-ignite,.for-portifolio-description-head{
+    color: #6d1705;
+}
+
+.student-info,.for-pro-head{
+    color: #45a29e;
+}
+
+.pro-portifolio{
+    text-align: left;
+    margin-top: 1rem;
+    margin-left: 2rem;
+    color: #1854b4;
 }
 
 /* Contact */
