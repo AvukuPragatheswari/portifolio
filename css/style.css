@@ -721,12 +721,10 @@ h3.my-profession{
 .for-portifolio-description-head{
     text-align: left;
     margin-top: 1rem;
-    margin-left: 2rem;
 }
 
 .for-portifolio-description-para{
     color: #f2f2fc;
-    margin-left: 2rem;
     text-align: left;
     border-top: 1px solid #393939;
     margin-bottom: 5px;
@@ -743,7 +741,6 @@ h3.my-profession{
 .pro-portifolio{
     text-align: left;
     margin-top: 1rem;
-    margin-left: 2rem;
     color: #1854b4;
 }
 
