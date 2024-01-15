@@ -157,6 +157,8 @@ ul{
     background: var(--skin-color);
     color: white;
     border-radius: 40px;
+    margin-right: 10px;
+    margin-bottom: 10px;
     display: inline-block;
     white-space: nowrap;
     transition: all 0.3s ease;
