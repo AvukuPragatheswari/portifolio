@@ -1,5 +1,5 @@
 ### Portfolio Website
-[JohnDoePortfolio.com](https://www.johndoeporfolio.com)
+[JohnDoePortfolio.com](https://avukupragatheswari.github.io/portifolio/)
 
 Passionate and dedicated [Your Profession] showcasing expertise in [Key Skills]. Explore my projects, skills, and learn more about me.
 
