@@ -22,11 +22,11 @@ Passionate and dedicated [Your Profession] showcasing expertise in [Key Skills].
 I am a [Your Profession] with a strong commitment to delivering high-quality work. My goal is to [Your Career Goal]. Let's connect and explore exciting possibilities!
 
 **Contact:**
-- Email: john.doe@email.com
+- Email: pragatheswaria@gmail.com
 - Availability: Open to new opportunities
 
 **Connect with me:**
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [GitHub](https://github.com/johndoe)
+- [LinkedIn](https://www.linkedin.com/in/avuku-pragatheswari-b64061247/)
+- [GitHub](https://github.com/AVUKU-PRAGATHESWARI)
 
 *Regularly updated for the latest projects and achievements.*
