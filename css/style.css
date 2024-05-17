@@ -891,4 +891,14 @@ h3.my-profession{
         flex: 0 0 100%;
         max-width: 100%;
     }
+
+    .home-img{
+        display: none;
+    }
+    .for-home-row{
+        justify-content: center;
+    }
+    .home-info{
+        width: 100vw;
+    }
 }
