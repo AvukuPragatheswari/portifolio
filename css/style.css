@@ -21,6 +21,15 @@ body.dark{
     
 }
 
+b{
+    color: var(--skin-color);
+}
+
+a{
+    color: var(--skin-color);
+    text-decoration: underline;
+}
+
 input{
     color: var(--text-black-700);
 }
